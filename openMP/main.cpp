@@ -1,7 +1,7 @@
 #include <iostream>
 #include <omp.h>
 
-#define N 10000000000000000
+#define N 10000
 
 int main(int argc, char *argv[])
 {
